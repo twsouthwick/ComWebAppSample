@@ -1,0 +1,6 @@
+IClassFactory
+CoRegisterClassObject
+CoWaitForMultipleHandles
+COWAIT_FLAGS
+CoRevokeClassObject
+CoCreateInstance
